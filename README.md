@@ -4,7 +4,7 @@
 
 - Build out the has many/belongs to relationship between two classes.
 - Build methods that use the has many/belongs to relationship between two classes.
-- Use a class variable to track data about a class.
+- Use a class variable tj track data about a class.
 - Build a class method to expose data stored in a class variable.
 
 ## Instructions
